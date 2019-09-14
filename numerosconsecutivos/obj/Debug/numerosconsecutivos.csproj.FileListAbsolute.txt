@@ -1,0 +1,10 @@
+D:\numerosconsecutivos\numerosconsecutivos\bin\Debug\numerosconsecutivos.exe.config
+D:\numerosconsecutivos\numerosconsecutivos\bin\Debug\numerosconsecutivos.exe
+D:\numerosconsecutivos\numerosconsecutivos\bin\Debug\numerosconsecutivos.pdb
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.csprojAssemblyReference.cache
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.Form1.resources
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.Properties.Resources.resources
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.csproj.GenerateResource.cache
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.csproj.CoreCompileInputs.cache
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.exe
+D:\numerosconsecutivos\numerosconsecutivos\obj\Debug\numerosconsecutivos.pdb
